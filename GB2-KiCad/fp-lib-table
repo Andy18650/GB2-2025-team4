@@ -19,4 +19,5 @@
   (lib (name "Connector")(type "KiCad")(uri "${KICAD8_FOOTPRINT_DIR}/Connector.pretty")(options "")(descr "Generic/unsorted connector footprints"))
   (lib (name "Connector_PinHeader_2.54mm")(type "KiCad")(uri "${KICAD8_FOOTPRINT_DIR}/Connector_PinHeader_2.54mm.pretty")(options "")(descr "Pin headers, 2.54mm pitch"))
   (lib (name "Connector_Pin")(type "KiCad")(uri "${KICAD8_FOOTPRINT_DIR}/Connector_Pin.pretty")(options "")(descr "Single (solder) pin conectors"))
+  (lib (name "Heatsink")(type "KiCad")(uri "${KICAD8_FOOTPRINT_DIR}/Heatsink.pretty")(options "")(descr "Heatsinks and thermal products"))
 )
